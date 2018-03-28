@@ -1,0 +1,10 @@
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\obj\Debug\netcoreapp2.0\Exam-Ace.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\obj\Debug\netcoreapp2.0\Exam-Ace.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\obj\Debug\netcoreapp2.0\Exam-Ace.AssemblyInfo.cs
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\bin\Debug\netcoreapp2.0\Exam-Ace.deps.json
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\bin\Debug\netcoreapp2.0\Exam-Ace.runtimeconfig.json
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\bin\Debug\netcoreapp2.0\Exam-Ace.runtimeconfig.dev.json
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\bin\Debug\netcoreapp2.0\Exam-Ace.dll
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\bin\Debug\netcoreapp2.0\Exam-Ace.pdb
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\obj\Debug\netcoreapp2.0\Exam-Ace.dll
+C:\Users\Anders\source\repos\Exam-Ace\Exam-Ace\obj\Debug\netcoreapp2.0\Exam-Ace.pdb
